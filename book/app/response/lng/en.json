@@ -1,0 +1,17 @@
+{
+  "API_SUCCESS": "Success",
+  "UPDATE_ERROR": "Error in updating data.",
+  "API_ERROR": "Error in Api Execution.",
+  "VALIDATION_ERROR": "Validation error.",
+  "FAILED_TO_ADD": "Failed to Add Data.",
+  "FAILED_TO_UPDATE": "Failed to Update.",
+  "FAILED_TO_DELETE": "Failed to Delete Data.",
+  "SOMETHING_WRONG": "Something went wrong.",
+  "NOT_FOUND": "Data not found.",
+  "INVALID_ROUTE": "Invalid route.",
+  "BOOK_ADDED": "Book Added Successfully",
+  "LIST_FETCHED": "Book List Fetched Successfully",
+  "BOOK_FOUND": "Book details Fetched Successfully",
+  "BOOK_UPDATED": "Book Updated Successfully",
+  "BOOK_DELETED": "Book deleted Successfully"
+}
